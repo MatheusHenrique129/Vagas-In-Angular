@@ -1,0 +1,32 @@
+{
+  "vacancies": [
+    {
+      "id": 1,
+      "name": "Vaga de desenvolvedor Back-end Atual",
+      "photo": "img5.jpg",
+      "description": "Descrição da Vaga: Vaga para dev back-end",
+      "salary": "5000"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvedor Front End Avançado",
+      "photo": "img2.jpg",
+      "description": "Trabalhar com React",
+      "salary": 9000
+    },
+    {
+      "id": 3,
+      "name": "Desenvolvedor Front End",
+      "photo": "img1.jpg",
+      "description": "Trabalhar com Angular",
+      "salary": 8000
+    },
+    {
+      "id": 4,
+      "name": "Matheus Henrique Santos Da Silva",
+      "photo": "img5.jpg",
+      "description": "Ola Mundo",
+      "salary": "9000"
+    }
+  ]
+}

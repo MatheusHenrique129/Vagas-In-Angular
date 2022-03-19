@@ -1,0 +1,9 @@
+.list-vacancies {
+  display: flex;
+  margin-top: 16px;
+  gap: 16px;
+}
+
+.list-vacancies div img {
+  height: 200px;
+}

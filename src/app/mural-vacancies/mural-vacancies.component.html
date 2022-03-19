@@ -1,0 +1,17 @@
+<section class="list-vacancies">
+  <div *ngFor="let vacancy of vacancies">
+    <div class="card" style="width: 18rem">
+      <img
+        src="assets\img\vacancies\{{ vacancy.photo }}"
+        class="card-img-top"
+        alt="..."
+      />
+      <div class="card-body">
+        <h5 class="card-title">Código da vaga: {{ vacancy.id }}</h5>
+        <h5 class="card-title">Vaga: {{ vacancy.name }}</h5>
+        <p class="card-text">Descrição da Vaga: {{ vacancy.description }}</p>
+        <p class="card-text">Salário: R$ {{ vacancy.salary }},00</p>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,29 @@
+.container-footer {
+  width: 100%;
+  height: 60px;
+  bottom: 0px;
+  position: fixed;
+  background-color: #043e80;
+}
+
+.fast-footer {
+  width: 250px;
+  height: 60px;
+  float: left;
+  color: #ffff00;
+  padding-top: 22px;
+  text-align: center;
+}
+
+#feito-por {
+  font-size: 18px;
+}
+
+.privacidade {
+  width: 250px;
+  height: 60px;
+  float: right;
+  color: #ffff00;
+  padding-top: 22px;
+  text-align: center;
+}
